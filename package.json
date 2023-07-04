@@ -1,0 +1,16 @@
+{
+  "name": "sprayautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.16.0",
+    "cypress-real-events": "^1.8.1",
+    "lambdatest-cypress-cli": "^3.0.15"
+  }
+}
